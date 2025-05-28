@@ -1,4 +1,7 @@
-com\adriano\WorldObject.class
-com\adriano\Main.class
+com\adriano\Inventory$InventorySlot.class
+com\adriano\Item.class
+com\adriano\Inventory.class
 com\adriano\Player.class
 com\adriano\WorldRenderer.class
+com\adriano\WorldObject.class
+com\adriano\Main.class
